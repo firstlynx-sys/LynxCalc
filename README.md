@@ -1,4 +1,6 @@
 # Lynx-Calc
 Translator for FirstLynx's cryptic language
 
-Work in progress
+Original text by @federal_felonious
+Webpage & edits by @airplaneguy
+
